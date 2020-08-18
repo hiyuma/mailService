@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+body, h2 {
+  font-family: "メイリオ", sans-serif;
+}
+
+body#loginPage {
+  margin-top: 2em;
+}
+
+.error-message {
+  font-weight: bold;
+  color: #a94442;
+}
